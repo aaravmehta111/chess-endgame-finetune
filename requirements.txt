@@ -1,0 +1,7 @@
+# Developed on a free Colab T4, where torch is preinstalled.
+unsloth
+trl
+datasets
+chess
+tqdm
+# Stockfish is installed separately, e.g. sudo apt-get install stockfish
